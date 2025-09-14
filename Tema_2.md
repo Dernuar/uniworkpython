@@ -30,7 +30,7 @@ print("23423")
 print(23.423)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_1.png)
 
 ## Выводы
 
@@ -51,7 +51,7 @@ print(2.3 + 4.1)
 print(2.43 + 7)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_2.png)
 
 ## Выводы
 
@@ -77,7 +77,7 @@ two = "worl"
 print(one + two)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_3.png)
 
 ## Выводы
 
@@ -103,7 +103,7 @@ three = 32
 print(str(three))
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_4.png)
 
 ## Выводы
 
@@ -126,7 +126,7 @@ three = input("three: ")
 print(one, two, three)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_5.png)
 
 ## Выводы
 
@@ -153,7 +153,7 @@ print("Целочисленное деление:", a // b)
 print("Нахождение остатка от деления:", a % b)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_6.png)
 
 ## Выводы
 
@@ -175,7 +175,7 @@ a = 'meh'
 print(a * 3)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_7.png)
 
 ## Выводы
 
@@ -192,7 +192,7 @@ a = 'Hello World!'
 print(a.count('o'))
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_8.png)
 
 ## Выводы
 
@@ -208,7 +208,7 @@ print(a.count('o'))
 print('Hello\nWorld')
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_9.png)
 
 ## Выводы
 
@@ -226,7 +226,7 @@ print(a[1])
 print(a[:5])
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Lab2_10.png)
 
 ## Выводы
 
@@ -245,7 +245,7 @@ a = 0
 print(bool(a))
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_1.png)
 
 ## Выводы
 
@@ -262,7 +262,7 @@ a, b, c = input(), input(), input()
 print(a, b, c)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_2.png)
 
 ## Выводы
 
@@ -280,7 +280,7 @@ a = int(input())
 print(a)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_3.png)
 
 ## Выводы
 
@@ -298,7 +298,7 @@ a = 'test'
 print(a*4)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_4.png)
 
 ## Выводы
 
@@ -315,7 +315,7 @@ d, m, y = 14, 'Сентября', 2025
 print(f'Сегодня {d} {m} {y} года. ', end='Всего хорошего!')
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_5.png)
 
 ## Выводы
 
@@ -331,7 +331,7 @@ a = 'Hello World'
 print(a.replace(' ', ' my '))
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_6.png)
 
 ## Выводы
 
@@ -348,7 +348,7 @@ a = 'Hello World'
 print(len(a))
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_7.png)
 
 ## Выводы
 
@@ -365,7 +365,7 @@ a = 'HELLO WORLD'
 print(a.lower())
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_8.png)
 
 ## Выводы
 
@@ -383,7 +383,7 @@ a, b = 21, 5
 print(a*b)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_9.png)
 
 ## Выводы
 
@@ -397,20 +397,17 @@ print(a*b)
 ### Придуманная задача заключается в переведении строки 'hello world' в верхний регистр
 
 ```python
-a = 'Hello World'
-print(a[1])
-print(a[:5])
+a = 'hello world'
+print(a.upper())
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Dernuar/uniworkpython/blob/Тема_2/pic/Sam2_10.png)
 
 ## Выводы
 
-В данном коде выводятся две строки с использованием функции `print()`. Каждая строка содержит разные значения:
+В данном коде выводятся строка с использованием функции `print()` и `upper()`:
 
-1. `print(a[1])`: Выводится 2ой символ строки 'Hello World'.
-
-2. `print(f"Hello, {world}!")`: Выводится слово 'Hello' строки 'Hello World'.
+1. `print(a.upper())`: Выводится значение переменной а в верхнем регистре.
 
 ## Общие выводы по теме
-- Развернутый вывод
+В ходе выполнения лабораторных и самостоятельных работ были использованы и изучены базовые возможности языка программирования python. Были рассмотрены возможности различных типов переменных и их различные функции, такие как `print()`, `input()` и т.д.
