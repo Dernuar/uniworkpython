@@ -110,7 +110,7 @@ class ElectricCar(Car):
         self.battery_capacity = battery_capacity
     
     def charge(self):
-        print(f"Chatging the {self.make} {self.model} with {self.battery_capacity} kWh")
+        print(f"Charging the {self.make} {self.model} with {self.battery_capacity} kWh")
 
 my_electric_car = ElectricCar("Tesla", "Model S", 75)
 my_electric_car.drive()
